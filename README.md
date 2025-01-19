@@ -7,16 +7,13 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jiwoongjeon89/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jiwoongjeon89/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Azure Compute and Networking](https://github.com/jiwoongjeon89/compute-networking)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jiwoongjeon89/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jiwoongjeon89/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[instagram]: https://www.instagram.com/jiwoongjeon_bw/
+[linkedin]: https://www.linkedin.com/in/jiwoong-jeon-6b198b336/
