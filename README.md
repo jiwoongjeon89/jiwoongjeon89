@@ -9,7 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jiwoongjeon89/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs (Part 1: Preparing Active Directory Infrastructure in Azure)](https://github.com/jiwoongjeon89/configure-ad)
-  - [Configuring On-premises Active Directory within Azure VMs (Part 2: Delopying Active Directory](https://github.com/jiwoongjeon89/configure-ad2)
+  - [Configuring On-premises Active Directory within Azure VMs (Part 2: Delopying Active Directory)](https://github.com/jiwoongjeon89/configure-ad2)
+  - [Configuring On-premises Active Directory within Azure VMs (Part 3: Using Active Directory - Creating Users, Group Policy and managing accounts)](https://github.com/jiwoongjeon89/configure-ad3)
 
 <h2>🤳Connect with me:</h2>
 
